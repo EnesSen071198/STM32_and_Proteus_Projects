@@ -1,0 +1,11 @@
+../Core/Src/main.c:50:6:set_servo1	16	static
+../Core/Src/main.c:55:9:read_button1	8	static
+../Core/Src/main.c:59:9:read_button2	8	static
+../Core/Src/main.c:63:9:read_button3	8	static
+../Core/Src/main.c:67:6:handle_button_control	8	static
+../Core/Src/main.c:93:5:main	8	static
+../Core/Src/main.c:149:6:SystemClock_Config	72	static
+../Core/Src/main.c:188:13:MX_TIM1_Init	112	static
+../Core/Src/main.c:270:13:MX_TIM2_Init	80	static
+../Core/Src/main.c:336:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:366:6:Error_Handler	4	static,ignoring_inline_asm
